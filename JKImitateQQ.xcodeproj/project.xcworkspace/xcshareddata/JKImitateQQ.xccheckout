@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AC2E2DCA-7EFF-4E71-8D50-8480A4728EF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JKImitateQQ</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1153EFA2F07F2ABA035218EE0C172B572B4F2E92</key>
+		<string>https://git.oschina.net/jikeit/IOS_JKImitateQQ.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JKImitateQQ.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1153EFA2F07F2ABA035218EE0C172B572B4F2E92</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/jikeit/IOS_JKImitateQQ.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1153EFA2F07F2ABA035218EE0C172B572B4F2E92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1153EFA2F07F2ABA035218EE0C172B572B4F2E92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS_JKImitateQQ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
